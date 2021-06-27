@@ -30,7 +30,7 @@ def eda():
 
 		with col2:
 			st.subheader("Basic Information about the data")
-			img = Image.open("info.png")
+			img = Image.open("info.jpeg")
 			st.image(img)
 
 		with col1:
