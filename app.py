@@ -22,7 +22,7 @@ def main():
 		st.header("Watch this Before using the APP")
 		
 		video1 = open("webapp_tour.mp4", "rb")
-		st.video(video1, start_time = 36)
+		st.video(video1)
 
 		st.write("""
 
