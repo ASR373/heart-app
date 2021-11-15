@@ -5,4 +5,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1ValkgJTGHd40byzutVjmMwKiuVeJx_H4/view?usp=sharing)
+
+![App Screenshot](home.png)
