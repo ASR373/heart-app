@@ -50,11 +50,11 @@ streamlit run app.py
 
 ### EDA - Descriptive Section
 
-![App Screenshot](EDA SECTION.png)
+![App Screenshot](eda_section.png)
 
 ### EDA - Plots Page
 
-![App Screenshot](plots page.png)
+![App Screenshot](plots_page.png)
 
 ### Machine Learning - Prediction Section
 
