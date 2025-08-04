@@ -1,4 +1,4 @@
-# Machine-Learning-Web-Apps
+# Machine-Learning-Web-App
 Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,Express,etc)
 
 ### Heart Disease Prediction App
